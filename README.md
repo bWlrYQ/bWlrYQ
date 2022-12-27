@@ -27,6 +27,8 @@ At the moment, I try to introduce myself to low level hacking (reverse engineeri
 
 <hr></hr>
 
+<h3 align="left">Hacking Platform Badges:</h3>
 
-[![](https://visitcount.itsvg.in/api?id=dd&icon=0&color=12)](https://visitcount.itsvg.in)
-
+<img src="rm_badge.jpg" alt="Root-Me">
+<img src="https://tryhackme-badges.s3.amazonaws.com/MjExMQ.png" alt="TryHackMe">
+<img src="http://www.hackthebox.eu/badge/image/488736" alt="Hack The Box">

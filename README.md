@@ -3,6 +3,8 @@
 
 Networking & Telecommunications student, interested by multiple areas of computer science, I enjoy programming, networking and system administration (GNU/Linux and Unix 🐧). I also am a CTF player that plays with [EGO+](https://ctftime.org/team/157022), during CTF's I mainly like doing Web Application, Forensic and Networking challenges, but I also sometimes go for Crypto.
 
+At the moment, I try to introduce myself to low level hacking (reverse engineering, binary exploitation, malwares...). Globally, I'm trying to increase my skills in every area of computer security/science.
+
 <hr></hr>
 
 <h3 align="left">Profiles:</h3>

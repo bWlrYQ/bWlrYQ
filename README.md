@@ -29,6 +29,6 @@ At the moment, I try to introduce myself to low level hacking (reverse engineeri
 
 <h3 align="left">Hacking Platform Badges:</h3>
 
-<img src="rm_badge.jpg" alt="Root-Me">
-<img src="https://tryhackme-badges.s3.amazonaws.com/MjExMQ.png" alt="TryHackMe">
-<img src="http://www.hackthebox.eu/badge/image/488736" alt="Hack The Box">
+[![root-me profile](https://www.root-me.org/?page=badge.svg&id_auteur=522784)](https://www.root-me.org/bWlrYQ)  
+<img src="https://tryhackme-badges.s3.amazonaws.com/MjExMQ.png" alt="TryHackMe">  
+<img src="http://www.hackthebox.eu/badge/image/488736" alt="Hack The Box">  
